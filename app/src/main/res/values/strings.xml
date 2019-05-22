@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DataBindingWithFlavours</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellidos</string>
+    <string name="email">E-mail</string>
+    <string name="suscription_until">Suscripción activa hasta el %1$te de %1$tB de %1$tY</string>
+    <string name="date_format">%1$te/%1$tm/%1$tY</string>
+    <string name="expire_date">Fecha de vencimiento</string>
+    <string name="suscription_error">Suscripción caducada</string>
+    <string name="suscription">Suscripción</string>
+    <string name="active">Activa</string>
+    <string name="inactive">Inactiva</string>
+    <string name="change_user">Cambiar usuario</string>
+    <string name="view_history">Historial de reproducción</string>
+</resources>
