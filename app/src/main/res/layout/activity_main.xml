@@ -5,7 +5,7 @@
   <data>
     <variable
         name="viewmodel"
-        type="es.sdos.android.databindingwithflavours.MainViewModel"/>
+        type="es.sdos.android.databindingwithflavors.MainViewModel"/>
   </data>
 
   <androidx.constraintlayout.widget.ConstraintLayout

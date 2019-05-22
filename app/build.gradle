@@ -9,7 +9,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "es.sdos.android.databindingwithflavours"
+        applicationId "es.sdos.android.databindingwithflavors"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1

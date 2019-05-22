@@ -1,10 +1,10 @@
-package es.sdos.android.databindingwithflavours
+package es.sdos.android.databindingwithflavors
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProviders
-import es.sdos.android.databindingwithflavours.databinding.ActivityMainBinding
+import es.sdos.android.databindingwithflavors.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

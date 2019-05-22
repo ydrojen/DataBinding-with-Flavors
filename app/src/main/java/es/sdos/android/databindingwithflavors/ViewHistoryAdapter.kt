@@ -1,4 +1,4 @@
-package es.sdos.android.databindingwithflavours
+package es.sdos.android.databindingwithflavors
 
 import android.view.LayoutInflater
 import android.view.View

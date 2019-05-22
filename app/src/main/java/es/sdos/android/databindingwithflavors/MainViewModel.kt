@@ -1,4 +1,4 @@
-package es.sdos.android.databindingwithflavours
+package es.sdos.android.databindingwithflavors
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

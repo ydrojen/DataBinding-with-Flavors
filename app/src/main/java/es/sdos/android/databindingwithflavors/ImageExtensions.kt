@@ -1,4 +1,4 @@
-package es.sdos.android.databindingwithflavours
+package es.sdos.android.databindingwithflavors
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
